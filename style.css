@@ -2,7 +2,6 @@
     box-sizing: content-box;
     height: 20px; /* Can be anything */
     position: relative;
-    margin: 20px 0 60px 0; /* Just for demo spacing */
     background: #555;
     border-radius: 25px;
     padding: 10px;
@@ -74,10 +73,22 @@
   .red > span {
     background-image: linear-gradient(#f0a3a3, #f42323);
   }
+
+  .blue > span {
+    background-image: linear-gradient(#97ade0, #232af4);
+  }
   
   .nostripes > span > span,
   .nostripes > span::after {
     background-image: none;
+  }
+
+  .workout-container > * {
+    margin: 0;
+  }
+
+  .workout-container {
+    margin-bottom: 35px;
   }
   
   #page-wrap {
@@ -89,6 +100,9 @@
     text-align: center;
     color: #eee;
     font-family: system-ui, sans-serif;
+  }
+  header {
+    font-size: 20px;
   }
   h1 {
     font-size: 42px;
