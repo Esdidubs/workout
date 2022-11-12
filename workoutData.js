@@ -90,7 +90,7 @@ let workoutChallenges = [
             { milestoneName: "Most Push-Ups Non-Stop", milestoneValue: 10507 },
             { milestoneName: "Most Push-Ups in 8 Hours", milestoneValue: 14444 },
             { milestoneName: "Most Push-Ups in 12 Hours", milestoneValue: 20085 },
-            { milestoneName: "Most pushups in a day", milestoneValue: 46001 }
+            { milestoneName: "Most Push-Ups in a Day", milestoneValue: 46001 }
         ]
     },
 
