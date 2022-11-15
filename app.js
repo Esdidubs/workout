@@ -26,7 +26,7 @@ function loadMeters(){
                 <div class="meter ${workoutChallenges[workout].styles}">
                     <span style="width: ${workoutChallenges[workout].progress()}"></span>
                 </div>
-                <p>Total: ${workoutChallenges[workout].current()}/${workoutChallenges[workout].totalNeeded}</p>
+                <p>Total: ${workoutChallenges[workout].current().toFixed(2).replace(/[.,]00$/, "")}/${workoutChallenges[workout].totalNeeded}</p>
             </section>
         `
 	}
