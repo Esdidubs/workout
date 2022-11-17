@@ -7,4 +7,7 @@ let workoutLog = [
     { date: "11/13/2022", summary: "walking, basketball, pickleball", workoutQuantity: 4.17, workoutType: "walk"},
     { date: "11/14/2022", summary: "walking", workoutQuantity: 4.09, workoutType: "walk"},
     { date: "11/15/2022", summary: "pushups", workoutQuantity: 100, workoutType: "push"},
+    { date: "11/15/2022", summary: "walking", workoutQuantity: 2.96, workoutType: "walk"},
+    { date: "11/16/2022", summary: "walking", workoutQuantity: 1.88, workoutType: "walk"},
+    { date: "11/13/2022", summary: "pullups in morning with stiff neck", workoutQuantity: 20, workoutType: "pull"},
 ];
