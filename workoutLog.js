@@ -27,4 +27,5 @@ let workoutLog = [
     // FIGHTING
     { date: "11/19/2022", workoutQuantity: 3, workoutType: "fight"},
     { date: "11/21/2022", workoutQuantity: 2, workoutType: "fight"},
+    { date: "11/22/2022", workoutQuantity: 2, workoutType: "fight"},
 ];
