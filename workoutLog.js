@@ -22,6 +22,7 @@ let workoutLog = [
     { date: "11/15/2022", workoutQuantity: 100, workoutType: "push"},
     { date: "11/19/2022", workoutQuantity: 175, workoutType: "push"},
     { date: "11/21/2022", workoutQuantity: 145, workoutType: "push"},
+    { date: "11/26/2022", workoutQuantity: 235, workoutType: "push"},
 
     // PULL-UPS
     { date: "11/13/2022", workoutQuantity: 66, workoutType: "pull"},
