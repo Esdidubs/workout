@@ -29,6 +29,12 @@ let workoutLog = [
   { date: "12/6/2022", workoutQuantity: 1.18, workoutType: "walk" },
   { date: "12/7/2022", workoutQuantity: 0.97, workoutType: "walk" },
   { date: "12/8/2022", workoutQuantity: 1.59, workoutType: "walk" },
+  { date: "12/9/2022", workoutQuantity: 1.24, workoutType: "walk" },
+  { date: "12/10/2022", workoutQuantity: 1.91, workoutType: "walk" },
+  { date: "12/11/2022", workoutQuantity: 1.66, workoutType: "walk" },
+  { date: "12/12/2022", workoutQuantity: 1.24, workoutType: "walk" },
+  { date: "12/13/2022", workoutQuantity: 3.71, workoutType: "walk" },
+  { date: "12/14/2022", workoutQuantity: 1.95, workoutType: "walk" },
 
   // PUSH-UPS
   { date: "11/12/2022", workoutQuantity: 100, workoutType: "push" },
