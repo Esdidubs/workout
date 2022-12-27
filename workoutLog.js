@@ -35,6 +35,18 @@ let workoutLog = [
   { date: "12/12/2022", workoutQuantity: 1.24, workoutType: "walk" },
   { date: "12/13/2022", workoutQuantity: 3.71, workoutType: "walk" },
   { date: "12/14/2022", workoutQuantity: 1.95, workoutType: "walk" },
+  { date: "12/15/2022", workoutQuantity: 1.55, workoutType: "walk" },
+  { date: "12/16/2022", workoutQuantity: 1.75, workoutType: "walk" },
+  { date: "12/17/2022", workoutQuantity: 2.54, workoutType: "walk" },
+  { date: "12/18/2022", workoutQuantity: 2.1, workoutType: "walk" },
+  { date: "12/19/2022", workoutQuantity: 2.78, workoutType: "walk" },
+  { date: "12/20/2022", workoutQuantity: 1.39, workoutType: "walk" },
+  { date: "12/21/2022", workoutQuantity: 3.07, workoutType: "walk" },
+  { date: "12/22/2022", workoutQuantity: 3.48, workoutType: "walk" },
+  { date: "12/23/2022", workoutQuantity: 3.78, workoutType: "walk" },
+  { date: "12/24/2022", workoutQuantity: 1.81, workoutType: "walk" },
+  { date: "12/25/2022", workoutQuantity: 2.86, workoutType: "walk" },
+  { date: "12/26/2022", workoutQuantity: 3.06, workoutType: "walk" },
 
   // PUSH-UPS
   { date: "11/12/2022", workoutQuantity: 100, workoutType: "push" },
@@ -42,6 +54,7 @@ let workoutLog = [
   { date: "11/19/2022", workoutQuantity: 175, workoutType: "push" },
   { date: "11/21/2022", workoutQuantity: 145, workoutType: "push" },
   { date: "11/26/2022", workoutQuantity: 235, workoutType: "push" },
+  { date: "12/26/2022", workoutQuantity: 40, workoutType: "push" },
 
   // PULL-UPS
   { date: "11/13/2022", workoutQuantity: 66, workoutType: "pull" },
